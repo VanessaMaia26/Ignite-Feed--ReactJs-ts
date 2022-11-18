@@ -5,7 +5,11 @@
     padding: 1.25rem; 
 }
 
-h1 {
+.header img {
+    height: 2rem;
+}
+
+strong {
     display: flex;
     flex-direction: row;
     align-items: center;
